@@ -1,0 +1,85 @@
+% Encoding: UTF-8
+@ARTICLE{9097182,  author={Wu, Ling and Zhang, Qishan and Chen, Chi-Hua and Guo, Kun and Wang, Deqin},  journal={IEEE Access},   title={Deep Learning Techniques for Community Detection in Social Networks},   year={2020},  volume={8},  number={},  pages={96016-96026},  doi={10.1109/ACCESS.2020.2996001}}
+
+@article{traag2019louvain,
+  title={From Louvain to Leiden: guaranteeing well-connected communities},
+  author={Traag, Vincent A and Waltman, Ludo and Van Eck, Nees Jan},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={1--12},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@Article{blondel2008fast,
+  author    = {Blondel, Vincent D and Guillaume, Jean-Loup and Lambiotte, Renaud and Lefebvre, Etienne},
+  journal   = {Journal of Statistical Mechanics: Theory and Experiment},
+  title     = {Fast unfolding of communities in large networks},
+  year      = {2008},
+  number    = {10},
+  pages     = {P10008},
+  volume    = {2008},
+  publisher = {IOP Publishing},
+}
+
+@InProceedings{de2011generalized,
+  author       = {De Meo, Pasquale and Ferrara, Emilio and Fiumara, Giacomo and Provetti, Alessandro},
+  booktitle    = {2011 11th international conference on intelligent systems design and applications},
+  title        = {Generalized louvain method for community detection in large networks},
+  year         = {2011},
+  organization = {IEEE},
+  pages        = {88--93},
+}
+@inproceedings{shao2015community,
+  title={Community detection based on distance dynamics},
+  author={Shao, Junming and Han, Zhichao and Yang, Qinli and Zhou, Tao},
+  booktitle={Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages={1075--1084},
+  year={2015}
+}
+@Article{FORTUNATO20161,
+  author  = {Santo Fortunato and Darko Hric},
+  journal = {Physics Reports},
+  title   = {Community detection in networks: A user guide},
+  year    = {2016},
+  issn    = {0370-1573},
+  pages   = {1-44},
+  volume  = {659},
+  doi     = {https://doi.org/10.1016/j.physrep.2016.09.002},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0370157316302964},
+}
+@inproceedings{cavallari2017learning,
+  title={Learning community embedding with community detection and node embedding on graphs},
+  author={Cavallari, Sandro and Zheng, Vincent W and Cai, Hongyun and Chang, Kevin Chen-Chuan and Cambria, Erik},
+  booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
+  pages={377--386},
+  year={2017}
+}@inproceedings{he2021community,
+  title={Community-centric graph convolutional network for unsupervised community detection},
+  author={He, Dongxiao and Song, Yue and Jin, Di and Feng, Zhiyong and Zhang, Binbin and Yu, Zhizhi and Zhang, Weixiong},
+  booktitle={Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence},
+  pages={3515--3521},
+  year={2021}
+}
+@Article{lancichinetti2009community,
+  author    = {Lancichinetti, Andrea and Fortunato, Santo},
+  journal   = {Physical review E},
+  title     = {Community detection algorithms: a comparative analysis},
+  year      = {2009},
+  number    = {5},
+  pages     = {056117},
+  volume    = {80},
+  publisher = {APS},
+}
+@article{yang2016comparative,
+  title={A comparative analysis of community detection algorithms on artificial networks},
+  author={Yang, Zhao and Algesheimer, Ren{\'e} and Tessone, Claudio J},
+  journal={Scientific reports},
+  volume={6},
+  number={1},
+  pages={1--18},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+@Comment{jabref-meta: databaseType:bibtex;}
